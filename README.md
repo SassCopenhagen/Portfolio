@@ -121,7 +121,4 @@ Elixir       │ Clojure      │ Nim         │ Zig          │ Assembly
 ## 📄 License & Credits
 
 © 2025 **@SassCopenhagen** — *Anonymous. Untraceable. Legendary.*
-
-Built with passion, precision, and code. No corners cut.
-
 ---
